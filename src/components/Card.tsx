@@ -4,13 +4,11 @@ import "./Card.css";
 export const Card = () => {
   return (
     <article className="card">
-      <header className="card-header">
-        <img src={qrImage} alt="" className="card-image" />
-        <h1 className="card-title">
-          Improve your front-end skills by building projects
-        </h1>
+      <header>
+        <img src={qrImage} alt="" />
+        <h1>Improve your front-end skills by building projects</h1>
       </header>
-      <p className="card-body">
+      <p>
         Scan the QR code to visit Frontend Mentor and take your coding skills to
         the next level
       </p>
