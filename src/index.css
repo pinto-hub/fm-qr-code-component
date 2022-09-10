@@ -73,4 +73,5 @@ svg {
 body {
   font-size: 15px;
   font-family: "Outfit";
+  background-color: var(--light-gray);
 }
