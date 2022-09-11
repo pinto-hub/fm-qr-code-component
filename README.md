@@ -6,6 +6,6 @@
   <h3>
     <a href="https://pinto-hub.github.io/fm-qr-code-component/">Live Site</a>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="16" height="16" />
-    <a href="https://pinto-hub.github.io/fm-qr-code-component/">Solution</a>
+    <a href="https://www.frontendmentor.io/solutions/qr-code-component-bZNx6dtDXk">Solution</a>
   </h3>
 </div>
